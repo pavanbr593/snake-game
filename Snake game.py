@@ -76,7 +76,6 @@ score_label.pack()
 
 direction = 'Right'
 game_over_flag = False
-
 snake = Snake()
 food = Food()
 
